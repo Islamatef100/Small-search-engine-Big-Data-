@@ -1,1 +1,3 @@
 
+first crawling to get amount of pages content  i determin number of pages and this code is dynamic for any number
+second crawling to get all links and their relation and also dynamic for any number of links but i shoud start with the sane first linkn of dirst crawlink to work at same data.
