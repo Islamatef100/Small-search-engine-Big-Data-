@@ -1,1 +1,4 @@
 
+this draw the window which take the search input from user and search about this word in inverted index output and get all files name.
+i store (file25) 25--> it mean number of link == number of line +1 so i can get by number of links from output of page the weights for all links and sort weights
+and finally get links from input file of page rank and print it in window as link.
