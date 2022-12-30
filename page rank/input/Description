@@ -1,1 +1,5 @@
 
+in input file for page rank 
+first row --> amount of links and ampint of relathont
+next tows -->all links
+last rows --> all relations
