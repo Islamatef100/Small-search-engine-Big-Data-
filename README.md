@@ -24,3 +24,6 @@ this project to do search engine at 100000 page but you can work at any amount o
                     
 5 --> now take search word from the user and by invertd index output file get number of links and by page rank outpyt file get the weight for each link and sort it and by page rank input fil get the link and print it.
                            
+islam atef
+software engineer
+ia1900@fayoum.edu.eg
